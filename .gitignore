@@ -33,3 +33,6 @@ desktop.ini
 
 # Scripts utilitarios locais de geracao da Fase 2
 Tech Challenge Fase 2/*.py
+
+# Backups locais de seguranca
+**/backup*/
